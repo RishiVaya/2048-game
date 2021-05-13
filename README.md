@@ -1,4 +1,4 @@
-
+# 2048 GAME
 
 Recreated the popular 2048 game using Java. The project also includes a detailed design specification made using LaTex and Doxygen,  and complete automated unit testing using JUnit. Java Swing is used to create a Graphic user interface GUI. Provided below is a picture of the application.
 
